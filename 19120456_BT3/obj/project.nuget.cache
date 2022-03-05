@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "yUoTihbNizQyRixz/TufGmzjYazCj/KJ/fZO1qIyUjHuQTdGaSEQZTDj7YJOxj5BgQDkh8Qst8tqCA6/wGN4dQ==",
+  "success": true,
+  "projectFilePath": "D:\\nam3_ki1\\DHMT\\TH\\THC#3\\Source\\19120456_BT3\\19120456_BT3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sharpgl\\3.1.1\\sharpgl.3.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sharpgl.scenegraph\\3.1.1\\sharpgl.scenegraph.3.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sharpgl.winforms\\3.1.1\\sharpgl.winforms.3.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
